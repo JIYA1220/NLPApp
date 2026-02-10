@@ -4,33 +4,31 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/JIYA1220)
 
-A beautiful and user-friendly desktop application for Natural Language Processing tasks including Sentiment Analysis, Named Entity Recognition, and Emotion Prediction.
+A user-friendly desktop application for Natural Language Processing tasks including Sentiment Analysis, Named Entity Recognition, and Emotion Prediction.
 
-![NLPApp Banner](screenshots/banner.png)
+##  Features
 
-## ✨ Features
-
-### 🔐 User Authentication
+###  User Authentication
 - Secure user registration and login system
 - Password-protected accounts
 - Personalized user experience
 
-### 😊 Sentiment Analysis
+###  Sentiment Analysis
 - Detect positive, negative, or neutral sentiment in text
 - Confidence scores and polarity ratings
 - Real-time analysis with visual feedback
 
-### 🏷️ Named Entity Recognition (NER)
+###  Named Entity Recognition (NER)
 - Extract names, places, dates, and organizations
 - Supports 17+ entity types
 - Comprehensive entity categorization
 
-### 💭 Emotion Prediction
+###  Emotion Prediction
 - Identify emotions: joy, sadness, anger, fear, surprise, disgust, love
 - Multi-emotion detection with confidence scores
 - Keyword-based and sentiment-based analysis
 
-### 📊 Additional Features
+###  Additional Features
 - **Analysis History** - Track all your previous analyses with timestamps
 - **Export Results** - Save analysis results to text files
 - **Word/Character Counter** - Real-time text statistics
@@ -40,9 +38,7 @@ A beautiful and user-friendly desktop application for Natural Language Processin
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](![Uploading Screenshot 2026-02-10 130020.png…]()
-
-)
+![Login](screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -56,7 +52,7 @@ A beautiful and user-friendly desktop application for Natural Language Processin
 ### Emotion Prediction
 ![Emotion](screenshots/emotion.png)
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
