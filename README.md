@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/JIYA1220)
 
 A user-friendly desktop application for Natural Language Processing tasks including Sentiment Analysis, Named Entity Recognition, and Emotion Prediction.
 
